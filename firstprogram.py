@@ -29,3 +29,4 @@ print(f"My name is {name} and age is {age} and the location is {location}")
 print("My name is %s and age is %d and location is %s" %(name, age, location))
 #format new version
 print("My name is {0} and age is {1} and location is {2}".format(name,age,location))
+
